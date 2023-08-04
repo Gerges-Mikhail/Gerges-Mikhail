@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=Welcome;I'am+a+Flutter+Developer" alt="Typing SVG" /></a>
 </p>
 <h2 dir="auto"><b> Summary </b></h2><br>
-<p dir="auto">Junior Software engineer, in Computer Science passionate about Mobile Programming with 1-year experience in 
+<p dir="auto">Junior Software engineer, in Computer Science passionate about Mobile Programming with 2-years experience in 
 mobile development (Flutter) Looking for opportunities as a software developer with an expert team of 
 developers who will help advance my career progression to senior positions in the future.
 <br></p>
